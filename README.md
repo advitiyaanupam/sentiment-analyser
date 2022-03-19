@@ -1,1 +1,1 @@
-# sentiment-analyser
+# Use pretrained embeddings
