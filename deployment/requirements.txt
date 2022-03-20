@@ -1,0 +1,17 @@
+Flask==2.0.2
+Flask-RESTful
+pandas
+# requests
+# Flask-WTF
+# keras==2.8.0
+# Keras-Preprocessing==1.1.2
+cloudpickle
+tensorflow==2.8.0
+# pyarrow
+# python-dotenv
+dynaconf
+# secure
+# Flask-WTF
+# gunicorn
+
+
